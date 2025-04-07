@@ -18,21 +18,21 @@ class Usuario
 
     public function obtenerUsuario($id)
     {
-        // Lógica para obtener un usuario por ID
+        // Lógica para obtener un usuario por ID --JOSE
     }
 
     public function crearUsuario()
     {
-        // Lógica para insertar usuario
+        // Lógica para insertar usuario 
     }
 
     public function actualizarUsuario()
     {
-        // Lógica para actualizar un usuario
+        // Lógica para actualizar un usuario --JOSE
     }
 
     public function eliminarUsuario($id)
     {
-        // Lógica para eliminar un usuario
+        // Lógica para eliminar un usuario --JOSE
     }
 }
